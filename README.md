@@ -1,6 +1,6 @@
 # Anss
 
-git clone https://github.com/ansalwerfily/Anss.git
+git clone https://github.com/ansalwerfily/Anss
 
 cd Anss
 
